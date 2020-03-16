@@ -1,12 +1,4 @@
 from A import A
+from B import B
 
-
-
-
-
-def aa():
-    A.f()
-    b=f()+1
-    print(b)
-
-aa()
+print("a")
